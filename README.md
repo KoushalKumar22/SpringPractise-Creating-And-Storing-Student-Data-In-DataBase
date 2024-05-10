@@ -9,4 +9,5 @@ Some changes you have to do in the program are to run on your system are :-
 
 <2>: in the same file change your password to your mariadb password  ( spring.datasource.password= ( your password )
 
-<3>: in same file after FIRST RUN change create-drop to update ( spring.jpa.hibernate.ddl-auto=create-drop )  to ( spring.jpa.hibernate.ddl-auto=update )
+
+THE PROGRAM IS TESTED AND VERIFIED ON POSTMAN AND ON ANY BROWSER.
