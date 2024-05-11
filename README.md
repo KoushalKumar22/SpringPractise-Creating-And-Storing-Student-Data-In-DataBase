@@ -1,6 +1,6 @@
 NOTE : This program uses mariadb Dependency.
 
-Heloo to springboot, This is my first program using sql in springboot which stores some basic student data like name age roll no.
+Hello to springboot, This is my first program using sql in springboot which stores some basic student data like name age roll no.
 
 
 Some changes you have to do in the program are to run on your system are :-
